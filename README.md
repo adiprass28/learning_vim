@@ -79,10 +79,10 @@ menemukan kemunculan <character> selanjutnya pada line.
 menemukan kemunculan <character> sebelumnya pada line.  
 
 **t<character>**  
-menemukan (memindahkan kursor) ke satu karakter sebelumnya pada <character> selanjutnya di line.  
+menemukan (memindahkan kursor) ke karakter selanjutnya kemudian meletakkan kursor pada satu <character> sebelumnya di line.  
 
 **T<character>**  
-menemukan (memindahkan kursor) ke satu karakter sebelumnya pada <character> sebelumnya di line.  
+menemukan (memindahkan kursor) ke satu karakter sebelumnya kemudian meletakkan kursor pada satu <character> setelahnya di line.
 
 **;**  
 repeat find command sebelumnya ke arah yang searah.  
